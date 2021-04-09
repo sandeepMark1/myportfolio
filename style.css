@@ -44,6 +44,7 @@ body{
     font-weight: bolder;
     color: #fff;
     font-family: "Baloo Da 2";
+    min-height: 300px;
 }
 
 .heading-text p{
