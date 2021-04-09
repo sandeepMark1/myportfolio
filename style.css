@@ -35,9 +35,11 @@ body{
 
 .heading-text h5{
     font-size: 4rem;
+    min-height: 300px;
     font-weight: 300;
     color: #fff;
     font-family: "Baloo Da 2" ;
+    
 }
 .heading-text h1{
     font-size: 5rem;
